@@ -1,0 +1,22 @@
+{
+  "dependencies": {
+    "express": "^4.18.1",
+    "node": "^17.7.2"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "aaaa",
+  "version": "1.0.0",
+  "main": "Server.js",
+  "devDependencies": {
+    "nodemon": "^2.0.16"
+  },
+  "keywords": [
+    "node",
+    "express"
+  ],
+  "author": "Ghayth",
+  "license": "ISC",
+  "description": ""
+}
